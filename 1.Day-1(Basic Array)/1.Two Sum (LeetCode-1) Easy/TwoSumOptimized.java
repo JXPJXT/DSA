@@ -15,7 +15,7 @@ class TwoSum {
     }
 }
 
-public class Main {
+public class TwoSumOptimized {
     public static void main(String[] args) {
         TwoSum solution = new TwoSum();
 
