@@ -8,5 +8,6 @@
         "2.Day-2(Strings & Array Manipulation Problems )/2.ValidPalindrome(LeetCode-125)Easy",
         "2.Day-2(Strings & Array Manipulation Problems )/1.ValidAnagrams(LeetCode-242)Easy",
         "2.Day-2(Strings & Array Manipulation Problems )/8.GroupAnagrams(LeetCode-49)Medium"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
