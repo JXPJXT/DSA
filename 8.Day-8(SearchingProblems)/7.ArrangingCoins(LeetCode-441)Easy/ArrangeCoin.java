@@ -1,4 +1,4 @@
-class ArrangeCoin {
+public class ArrangeCoin {
     public int arrangeCoins(int n) {
         int s = 1;
         int e = n;
@@ -13,7 +13,7 @@ class ArrangeCoin {
     }
 
     public static void main(String[] args) {
-        Main solution = new Main();
+        ArrangeCoin solution = new ArrangeCoin();
         int n1 = 5;
         System.out.println("For n = " + n1 + ", the number of full rows is: " + solution.arrangeCoins(n1));
         
