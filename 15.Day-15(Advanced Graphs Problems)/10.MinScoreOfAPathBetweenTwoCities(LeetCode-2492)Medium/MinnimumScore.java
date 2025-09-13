@@ -69,5 +69,6 @@ class MinimumScore {
         int n3 = 5;
         int[][] roads3 = {{1, 2, 2}, {2, 3, 5}, {3, 4, 7}, {4, 5, 8}};
         System.out.println("Minimum score for Test Case 3: " + solution.minScore(n3, roads3)); // Expected: 2
+        //Done!!
     }
 }
